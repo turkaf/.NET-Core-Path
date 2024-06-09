@@ -44,7 +44,7 @@ namespace TodoApi.Controllers
         }
 
         //api/WheatherForecasts/3
-        [HttpGet]
+        [HttpGet("{id}")]
         public IEnumerable<WeatherForecast> GetForecast(string id)
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
