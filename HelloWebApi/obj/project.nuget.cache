@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcnQc8JJ8KfpuP0fogrQoP6JSJRQsMm8ArhJKoEADH+rpnvdtWm43+vU4d0DXgkQlQhlRR2FmGsmS8K0lLl+bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmet Faruk TÜRK\\Desktop\\Practices\\Hello\\HelloWebApi\\HelloWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet Faruk TÜRK\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk TÜRK\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk TÜRK\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk TÜRK\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk TÜRK\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk TÜRK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Faruk TÜRK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
