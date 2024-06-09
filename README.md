@@ -7,7 +7,7 @@ This project contains an application developed using .NET Core. A brief descript
 To clone the project to your local machine, you can use the following command:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/turkaf/.NET-Core-Path.git
 ```
 
 ## Requirements
@@ -42,4 +42,4 @@ dotnet run
 
 ## License
 
-This project is licensed under the MIT License. For more information, see the `LICENSE` file.
+No License
